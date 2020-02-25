@@ -1,4 +1,4 @@
 var playlist = {
-  Justin Bieber: Intentions,
-  Hozier: Move
+  Justin Bieber: 'Intentions',
+  Hozier: 'Move'
 }
